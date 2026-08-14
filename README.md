@@ -27,7 +27,7 @@ that solve business problems.
 
 ## 📌 Featured Projects
 
-### 🧪 Lab Inventory & Equipment Monitoring System
+### 🧪 Inventory Management and Equipment Monitoring System for J&JK Medical Equipment Trading Service
 
 My capstone project — a web-based inventory and monitoring system
 for laboratory reagents and equipment.
