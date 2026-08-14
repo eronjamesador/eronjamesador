@@ -84,6 +84,6 @@ Planned features include:
 
 ## 📫 Connect with me
 
-- 💼 LinkedIn: [Eron James Ador](www.linkedin.com/in/eronjamesador)
+- 💼 LinkedIn: [Eron James Ador](https://linkedin.com/in/eronjamesador)
 - 💻 GitHub: [eronjamesador](https://github.com/eronjamesador)
 - 📧 Email: [eronjamesador@gmail.com](mailto:eronjamesador@gmail.com)
