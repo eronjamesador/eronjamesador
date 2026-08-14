@@ -82,6 +82,8 @@ Planned features include:
 - Applied Machine Learning
 - Backend development
 
-## 📫 Contact
+## 📫 Connect with me
 
-📧 **Email:** eronjamesador@gmail.com
+- 💼 LinkedIn: [Eron James Ador](www.linkedin.com/in/eronjamesador)
+- 💻 GitHub: [eronjamesador](https://github.com/eronjamesador)
+- 📧 Email: [eronjamesador@gmail.com](mailto:eronjamesador@gmail.com)
